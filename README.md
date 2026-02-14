@@ -66,4 +66,11 @@ wget https://raw.githubusercontent.com/Smok3y97/Rustdesk-Server-Pro-Device-Clean
 chmod +x rustdesk_cleaner.py
 ~~~
 
+### 🚀 Run
+To start the script in simulation mode (Dry Run):
+
+~~~bash
+python3 rustdesk_cleaner.py delete
+~~~
+
 > **⚠️ Important:** Before running the script, open `rustdesk_cleaner.py` and set your `API_URL` and `API_TOKEN` at the top of the file!
