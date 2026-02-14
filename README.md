@@ -76,5 +76,3 @@ python3 rustdesk_cleaner.py delete
 ~~~
 
 > **⚠️ Important:** Before running the script, open `rustdesk_cleaner.py` and set your `API_URL` and `API_TOKEN` at the top of the file!
-
-SSH signing test
