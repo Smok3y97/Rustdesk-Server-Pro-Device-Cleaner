@@ -35,6 +35,8 @@ This script automates the entire cleanup workflow:
 2.  **Disable:** Sends the disable command to the API.
 3.  **Delete:** Deletes the device to free up the license.
 
+> **📘 Documentation:** Detailed documentation, including **Cronjob examples**, **Filter Options**, and **CLI arguments**, is also available directly inside the [`rustdesk_cleaner.py`](rustdesk_cleaner.py) script header.
+
 ---
 
 ## 📥 Installation
