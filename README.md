@@ -55,7 +55,7 @@ Best if you want to keep the script updated easily via `git pull`.
 
 ~~~bash
 git clone https://github.com/Smok3y97/Rustdesk-Server-Pro-Device-Cleaner.git
-cd REPO_NAME
+cd Rustdesk-Server-Pro-Device-Cleaner
 ~~~
 
 ### Option B: Single File Download (Quick Setup)
